@@ -1,6 +1,3 @@
-
-
-
 # Karawang Cyber Team Shell
 
 # Bypassed
@@ -23,7 +20,7 @@
 * KILL Your Self!
 
 # Preview
-<img src="https://github.com/MadExploits/Gecko/raw/main/Screenshot%20from%202022-12-17%2022-10-39.png" style="width:100%;">
+<img src="https://e.top4top.io/p_2571tw65p0.jpg" style="width:100%;">
 
 
 # Note* :
